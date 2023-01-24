@@ -1,0 +1,51 @@
+[
+    {
+    "id": 1,
+    "name": "Burn Whsiper",
+    "image": "https://i.postimg.cc/nCdtsgGV/BurnW.png",
+    "github": "https://github.com/nle641999/BurnWhisper",
+    "deploy": "https://boiling-harbor-03856.herokuapp.com/",
+    "topics": "node-js, nodemon, express-js, handlebars-js, mysql, sequelize, dotenv, bcrypt"
+    },
+    {
+    "id": 2,
+    "name": "Covid App",
+    "image": "https://i.postimg.cc/TLc4z5k2/CovidApp.png",
+    "github": "https://github.com/alisradwan/COVID-APP",
+    "deploy": "https://alisradwan.github.io/COVID-APP/",
+    "topics": "HTML, CSS, API"
+    },
+    {
+    "id": 3,
+    "name": "Password Generator",
+    "image": "https://i.postimg.cc/SNqwFQrm/Pass.png",
+    "github": "https://github.com/oraanlevi/Password-Generator.git",
+    "deploy": "https://oraanlevi.github.io/Password-Generator/",
+    "topics": "HTML, Javascript, Bootstrap, CSS, jQuery, Moment"
+    },
+    {
+    "id": 4,
+    "name": "Original Mockup Profolio",
+    "image": "https://i.postimg.cc/50LkTDQH/Profolio.png",
+    "github": "https://github.com/oraanlevi/Portfolio-Oraan",
+    "deploy": " https://oraanlevi.github.io/Portfolio-Oraan/",
+    "topics": "HTML, CSS, javascript"
+    },
+    {
+    "id": 5,
+    "name": "Work Day Schedule",
+    "image": "https://i.postimg.cc/fLDxWPgS/Work-Schedule.png",
+    "github": "https://github.com/oraanlevi/Work-Day-Schedule.git",
+    "deploy": "https://oraanlevi.github.io/Work-Day-Schedule/",
+    "topics": "HTML, CSS, API"
+      },
+    {
+    "id": 6,
+    "name": "Weather Dashbaord",
+    "image": "https://i.postimg.cc/8CVvw3GX/Weather.png'",
+    "github": "https://github.com/oraanlevi/5-Day-Weather-Forecast",
+    "deploy": "https://oraanlevi.github.io/5-Day-Weather-Forecast/?cityname=california",
+    "topics": "HTML, Javascript, Bootstrap, CSS, Moment"
+    }
+    
+]
